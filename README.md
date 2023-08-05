@@ -10,4 +10,5 @@ These are by no means the greatest, most optimized, most stable, or most scalabl
 | Zig      | [repo](https://github.com/jackjohn7/zigging_philosophers)  |
 | Python   | [repo](https://github.com/jackjohn7/dining_pylosophers)    |
 | Java     | [repo](https://github.com/jackjohn7/diningPhilosophers_jar)|
+| V        | [repo](https://github.com/jackjohn7/dining_vlosophers)     |
 
