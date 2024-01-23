@@ -11,4 +11,5 @@ These are by no means the greatest, most optimized, most stable, or most scalabl
 | Python   | [repo](https://github.com/jackjohn7/dining_pylosophers)    |
 | Java     | [repo](https://github.com/jackjohn7/diningPhilosophers_jar)|
 | V        | [repo](https://github.com/jackjohn7/dining_vlosophers)     |
+| Kotlin   | [repo](https://github.com/jackjohn7/dining_kotlinners)     |
 
