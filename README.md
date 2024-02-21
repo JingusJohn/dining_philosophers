@@ -12,4 +12,5 @@ These are by no means the greatest, most optimized, most stable, or most scalabl
 | Java     | [repo](https://github.com/jackjohn7/diningPhilosophers_jar)|
 | V        | [repo](https://github.com/jackjohn7/dining_vlosophers)     |
 | Kotlin   | [repo](https://github.com/jackjohn7/dining_kotlinners)     |
+| Elixir   | [repo](https://github.com/jackjohn7/elixing_philosophers)  |
 
